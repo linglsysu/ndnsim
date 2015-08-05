@@ -1,0 +1,1 @@
+For more information, please refer to ndnSIM homepage http://ndnsim.net and official repository at github https://github.com/NDN-Routing/ndnSIM
